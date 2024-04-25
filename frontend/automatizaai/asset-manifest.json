@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.901c1384.chunk.css",
+    "main.js": "/static/js/main.d97f5ba5.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.e4991447.js",
+    "static/css/2.0beaeeb3.chunk.css": "/static/css/2.0beaeeb3.chunk.css",
+    "static/js/2.bdc771af.chunk.js": "/static/js/2.bdc771af.chunk.js",
+    "static/js/3.37fee9cd.chunk.js": "/static/js/3.37fee9cd.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.74f8d574dc98c2fa6940c7caa1ed59e3.js": "/precache-manifest.74f8d574dc98c2fa6940c7caa1ed59e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.bdc771af.chunk.js.LICENSE.txt": "/static/js/2.bdc771af.chunk.js.LICENSE.txt",
+    "static/js/3.37fee9cd.chunk.js.LICENSE.txt": "/static/js/3.37fee9cd.chunk.js.LICENSE.txt",
+    "static/media/chat_notify.mp3": "/static/media/chat_notify.2529c259.mp3",
+    "static/media/email.png": "/static/media/email.c75e27c9.png",
+    "static/media/fundo.mp4": "/static/media/fundo.325c3d0c.mp4",
+    "static/media/instagram.png": "/static/media/instagram.0b6b3c8d.png",
+    "static/media/logo.png": "/static/media/logo.b801b20b.png",
+    "static/media/n8n.png": "/static/media/n8n.5c788b8d.png",
+    "static/media/planilha.xlsx": "/static/media/planilha.549edeba.xlsx",
+    "static/media/sound.mp3": "/static/media/sound.9fd5812c.mp3",
+    "static/media/success.gif": "/static/media/success.786a3db7.gif",
+    "static/media/wa-background-dark.png": "/static/media/wa-background-dark.8244f042.png",
+    "static/media/wa-background.png": "/static/media/wa-background.adbccee0.png",
+    "static/media/webhook.png": "/static/media/webhook.e5374d73.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.ae8a9a2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4991447.js",
+    "static/css/2.0beaeeb3.chunk.css",
+    "static/js/2.bdc771af.chunk.js",
+    "static/css/main.901c1384.chunk.css",
+    "static/js/main.d97f5ba5.chunk.js"
+  ]
+}
